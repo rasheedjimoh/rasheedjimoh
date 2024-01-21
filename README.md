@@ -2,13 +2,9 @@
 
 <h2>👨‍💻Projects:</h2>
 
-- <b>Azure Cloud Projects</b>
+- <b>Azure Cloud Projects </b>
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/blob/main/README.md)
   - [Enterprise Home Lab](Coming soon!)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
