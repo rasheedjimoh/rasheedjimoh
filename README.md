@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rasheed! <br/> <a href="https://www.linkedin.com/in/rasheedj/">Cybersecurity expert specializing in secure environment creation, risk assessment, and compliance, dedicated to safeguarding digital assets in the ever-evolving digital landscape</a></h1>
+<h1>Hi, I'm Rasheed! <br/> <a href="https://github.com/rasheedjimoh">Security Engineer with networking and cloud expertise, securing operations, building environments, assessing risks, and ensuring compliance for safeguarding digital assets in the evolving landscape.</a></h1>
 
 <h2>👨‍💻Projects:</h2>
 
