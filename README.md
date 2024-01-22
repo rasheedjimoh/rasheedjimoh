@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Azure Cloud Projects </b>
-  - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/blob/main/README.md)
+  - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
   - [Enterprise Home Lab](Coming soon!)
 
 <h2> 🤳 Connect with me:</h2>
