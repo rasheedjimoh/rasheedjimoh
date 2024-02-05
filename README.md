@@ -5,7 +5,7 @@
 - <b>Azure Cloud Projects </b>
 - <b>Azure Cloud Projects </b>
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
-  - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+  - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents
   
 
 - <b>Enterprise Home Lab (in process!!!) </b>
