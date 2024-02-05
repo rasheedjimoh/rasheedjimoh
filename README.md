@@ -3,8 +3,14 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Azure Cloud Projects </b>
+- <b>Azure Cloud Projects </b>
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
-  - [Enterprise Home Lab](Coming soon!)
+  - Built a Honeynet in the Cloud, attracting live attackers, triggering alerts, and remediating incidents
+  
+
+- <b>Enterprise Home Lab (in process!!!) </b>
+  - [Active Directory](https://github.com/rasheedjimoh/ActiveDirectory/)
+  - [Active Directory](https://github.com/rasheedjimoh/ActiveDirectory/)
 
 <h2> 🤳 Connect with me:</h2>
 
