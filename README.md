@@ -3,7 +3,6 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Azure Cloud Projects </b>
-- <b>Azure Cloud Projects </b>
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
   - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents
   
