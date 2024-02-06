@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/rasheedj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security Engineer with networking and cloud expertise, securing operations, building environments, assessing risks, and ensuring compliance for safeguarding digital assets in the evolving landscape.
+Security Engineer with networking and cloud expertise, securing operations, building environments, assessing risks and ensuring compliance for safeguarding digital assets in the evolving landscape.
 
 
 
