@@ -10,7 +10,6 @@
 - <b>Enterprise Home Lab (in process!!!) </b>
   - [Active Directory](https://github.com/rasheedjimoh/ActiveDirectory/)
   - Explore Windows Server 2022 and Windows 10 Pro integration, addressing server challenges, automating tasks, and ensuring user-centric design for excellence in IT management.
-
   - [Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
   - Integrated Ubuntu Server into Active Directory for centralized management. Utilize VirtualBox, SSH, PAM, SSSD and Kerberos for seamless authentication, enhancing security and user experience.
   - 
