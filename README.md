@@ -64,7 +64,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
     <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 </div>
 
-### SIEM / Ticket System
+### SIEM / ITSM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
