@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rasheed! <br/> </h1>
+<h1>Hi, I'm Rasheed!     <img src="https://media.giphy.com/media/3o7buirYcmV5nSwIRW/giphy.gif" width="30"> <br/> </h1>
 
 <a href="https://www.linkedin.com/in/rasheedj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -101,3 +101,5 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 [<img align="left" alt="rasheedj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/rasheedj/
+
+<img src="https://media.tenor.com/images/f25bc9f72976b2e3c9d4ff01a6611501/tenor.gif" width="30">
