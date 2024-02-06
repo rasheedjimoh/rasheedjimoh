@@ -12,7 +12,10 @@
   - Explore Windows Server 2022 and Windows 10 Pro integration, addressing server challenges, automating tasks, and ensuring user-centric design for excellence in IT management.
   - [Linux: Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
   - Integrated Ubuntu Server into Active Directory for centralized management. Utilize VirtualBox, SSH, PAM, SSSD and Kerberos for seamless authentication, enhancing security and user experience.
-  - 
+  -   - [Fixing Insufficient permission to join domain when trying to join linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/ActiveDirectory/)
+
+- <b>Problem Resolution </b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
