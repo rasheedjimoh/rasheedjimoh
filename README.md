@@ -9,8 +9,11 @@
 
 - <b>Enterprise Home Lab (in process!!!) </b>
   - [Active Directory](https://github.com/rasheedjimoh/ActiveDirectory/)
-  - 
+  - Create a virtual corporate setup using VirtualBox, Windows Server 2022, and Windows 10. Explore network management, system administration and IT infrastructure intricacies.
+  
   - [Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
+  - Integrate Ubuntu Server into Active Directory for centralized management. Utilize VirtualBox, SSH, PAM, SSSD, and Kerberos for seamless authentication, enhancing security and user experience.
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
