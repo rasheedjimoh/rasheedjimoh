@@ -15,7 +15,7 @@
   - 
 
 - <b>Problem Resolution </b>
- - [Fixing Insufficient permission to join domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/ActiveDirectory/)
+ - [Fixing Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
 
 
 <h2> 🤳 Connect with me:</h2>
