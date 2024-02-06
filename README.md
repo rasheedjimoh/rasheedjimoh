@@ -102,4 +102,4 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 [linkedin]: https://www.linkedin.com/in/rasheedj/
 
-<img src="https://media.tenor.com/images/f25bc9f72976b2e3c9d4ff01a6611501/tenor.gif" width="30">
+
