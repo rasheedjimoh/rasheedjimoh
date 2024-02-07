@@ -19,6 +19,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Linux: Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
   - Integrated Ubuntu Server into Active Directory for centralized management. Utilize VirtualBox, SSH, PAM, SSSD and Kerberos for seamless authentication, enhancing security and user experience.
   - [Integrating EntraID with On-Prem Active Directory and Cloud Services](https://github.com/rasheedjimoh/AAD-EntraID/)
+  - Integrated our on-prem AD to AzureAD/EntraID using Cloud Sync agent successfully making it a hybrid environment.
   - 
 
 - <b>Problem Resolution </b>
