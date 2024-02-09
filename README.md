@@ -21,7 +21,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [AzureAD / EntraID](https://github.com/rasheedjimoh/AAD-EntraID/)
   - Integrated our on-prem AD to AzureAD/EntraID using Cloud Sync agent successfully making it a hybrid environment.
   - [Azure File Share](https://github.com/rasheedjimoh/AzureFileShare/)
-  - Integrate Azure storage with the corporate network(hybrid environment) for efficient file sharing and access management.
+  - Integrate Azure storage with the corporate network(hybrid environment) for efficient file sharing, access management and high availability.
   -  
 
 - <b>Problem Resolution </b>
