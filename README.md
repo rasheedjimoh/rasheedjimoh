@@ -21,21 +21,15 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Integrating AzureAD / EntraID with On-Prem Active Directory and Cloud Services](https://github.com/rasheedjimoh/AAD-EntraID/)
   - Integrated our on-prem AD to AzureAD/EntraID using Cloud Sync agent successfully making it a hybrid environment.
   - [Integrating Azure File Share into our Hybrid environment for high availability and redundancy](https://github.com/rasheedjimoh/AzureFileShare/)
-  - 
-  - 
+  - Integrate Azure storage with corporate network for efficient file sharing and access management.
+  -  
 
 - <b>Problem Resolution </b>
  - [Fixing Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
 
 
 ## Tools
-<div>
 
-
-
-
-</div>
-  
 ### Network / SD-WAN(SDWAN)
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
