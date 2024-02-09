@@ -18,10 +18,10 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Explore Windows Server 2022 and Windows 10 Pro integration, addressing server challenges, automating tasks and ensuring user-centric design for excellence in IT management.
   - [Linux: Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
   - Integrated Ubuntu Server into Active Directory for centralized management. Utilize VirtualBox, SSH, PAM, SSSD and Kerberos for seamless authentication, enhancing security and user experience.
-  - [Integrating AzureAD / EntraID with On-Prem Active Directory and Cloud Services](https://github.com/rasheedjimoh/AAD-EntraID/)
+  - [AzureAD / EntraID](https://github.com/rasheedjimoh/AAD-EntraID/)
   - Integrated our on-prem AD to AzureAD/EntraID using Cloud Sync agent successfully making it a hybrid environment.
-  - [Integrating Azure File Share into our Hybrid environment for high availability and redundancy](https://github.com/rasheedjimoh/AzureFileShare/)
-  - Integrate Azure storage with corporate network for efficient file sharing and access management.
+  - [Azure File Share](https://github.com/rasheedjimoh/AzureFileShare/)
+  - Integrate Azure storage with the corporate network(hybrid environment) for efficient file sharing and access management.
   -  
 
 - <b>Problem Resolution </b>
