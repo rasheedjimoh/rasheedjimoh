@@ -24,7 +24,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Integrate Azure storage with the corporate network(hybrid environment) for efficient file sharing, access management and high availability.
   -  
 
-- <b>Problem Resolution </b>
+ <h2>👨‍💻Problem Resolution:</h2>
+ 
  - [Fixing Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
 
 
