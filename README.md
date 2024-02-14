@@ -28,7 +28,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
  <h2>👨‍💻Problem Resolution:</h2>
  
- - [Fixing Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
+ - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
+ - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
 
 
 ## Tools
