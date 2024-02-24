@@ -26,7 +26,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Connect the on-prem network to the Azure network using virtual network(vnet), local network gateway, virtual network gateway and Routing and Remote Access Service in Active Directory
   - 
 
- <h2>👨‍💻Problem Resolution:</h2>
+ <h2>👨‍💻Problem Resolution / Findings :</h2>
  
  - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
  - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
