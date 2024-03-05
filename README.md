@@ -24,9 +24,9 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Integrate Azure storage with the corporate network(hybrid environment) for efficient file sharing, access management and high availability.
   - [Site-to-Site VPN(IPsec)](https://github.com/rasheedjimoh/AzureFileShare/)
   - Connect the on-prem network to the Azure network using virtual network(vnet), local network gateway, virtual network gateway and Routing and Remote Access Service in Active Directory
-  - [pfSense Firewall / Router](https://github.com/rasheedjimoh//)
+  - [pfSense Firewall / Router](https://github.com/rasheedjimoh/pfsense/)
   - Configure firewall rules to explicitly block all traffic and whitelist only necessary traffic
-  - [Security Onion IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh//)
+  - [Security Onion IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh/securityonion/)
   - for threat hunting, network security monitoring, and log management
   - [Connecting Clients Across Subnets: Adding a New Domain Client](https://github.com/rasheedjimoh/domainjoinseperatesubnet/)
   - Joined a client in a different subnet to the domain
