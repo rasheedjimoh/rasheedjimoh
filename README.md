@@ -28,7 +28,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Configure firewall rules to explicitly block all traffic and whitelist only necessary traffic
   - [Security Onion IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh//)
   - for threat hunting, network security monitoring, and log management
-  - 
+  - [Connecting Clients Across Subnets: Adding a New Domain Client](https://github.com/rasheedjimoh/domainjoinseperatesubnet/)
+  - Joined a client in a different subnet to the domain
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
  
