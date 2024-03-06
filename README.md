@@ -32,6 +32,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Joined a client in a different subnet to the domain
   - [DNS Security with pfBlockerNG](https://github.com/rasheedjimoh/pfblockerng/)
   - Set up pfBlockerNG + unbound for DNS security and ad blocking
+  - [Windows Defender Firewall](https://github.com/rasheedjimoh/wf/)
+  - Safeguarding our systems against cyber threats
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
