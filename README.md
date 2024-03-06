@@ -30,6 +30,9 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - For threat hunting, network security monitoring, and log management
   - [Connecting Clients Across Subnets: Adding a New Domain Client](https://github.com/rasheedjimoh/domainjoinseperatesubnet/)
   - Joined a client in a different subnet to the domain
+  - [DNS Security with pfBlockerNG](https://github.com/rasheedjimoh/pfblockerng/)
+  - Set up pfBlockerNG + unbound for DNS security and ad blocking
+
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
  
