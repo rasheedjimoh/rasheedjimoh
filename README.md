@@ -26,7 +26,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Connected the on-prem network to the Azure network using virtual network(vnet), local network gateway, virtual network gateway and Routing and Remote Access Service in Active Directory
   - [pfSense Firewall / Router](https://github.com/rasheedjimoh/pfsense/)
   - Configured firewall rules to explicitly block all traffic and whitelist only necessary traffic
-  - [Security Onion IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh/securityonion/)
+  - [Security Onion SIEM (Security information and event management) IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh/securityonion/)
   - For threat hunting, network security monitoring, and log management
   - [Connecting Clients Across Subnets: Adding a New Domain Client](https://github.com/rasheedjimoh/domainjoinseperatesubnet/)
   - Joined a client in a different subnet to the domain
