@@ -36,7 +36,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Safeguarding our systems against cyber threats
   - [Set up OpenVPN for Remote Access](https://github.com/rasheedjimoh/wf/)
   - Remote accessibility with OpenVPN, coupled with Duck DNS for dynamic DNS hosting on AWS.
-  - [Set up Internal web server on Window](https://github.com/rasheedjimoh/wwebserver/)
+  - [Set up an Internal web server on Windows](https://github.com/rasheedjimoh/wwebserver/)
   - Internal website accessible only on the internal network
   - 
 
