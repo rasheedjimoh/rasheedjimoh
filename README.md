@@ -34,6 +34,11 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Set up pfBlockerNG + unbound for DNS security and ad blocking
   - [Windows Defender Firewall](https://github.com/rasheedjimoh/wf/)
   - Safeguarding our systems against cyber threats
+  - [Set up OpenVPN for Remote Access](https://github.com/rasheedjimoh/wf/)
+  - Remote accessibility with OpenVPN, coupled with Duck DNS for dynamic DNS hosting on AWS.
+  - [Set up Internal web server on Window](https://github.com/rasheedjimoh/wwebserver/)
+  - Internal website accessible only on the internal network
+  - 
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
