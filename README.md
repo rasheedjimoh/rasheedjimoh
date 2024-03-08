@@ -38,6 +38,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Remote accessibility with OpenVPN, coupled with Duck DNS for dynamic DNS hosting on AWS.
   - [Set up an Internal web server on Windows](https://github.com/rasheedjimoh/wwebserver/)
   - Internal website accessible only on the internal network
+  - [Enhancing Network Performance and Security with Quality of Service (QoS)](https://github.com/rasheedjimoh/qos/)
+  - Prioritising business critical traffic and real-time traffic over other traffic.
   - 
 
 
