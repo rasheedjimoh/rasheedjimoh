@@ -33,14 +33,15 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [DNS Security with pfBlockerNG](https://github.com/rasheedjimoh/pfblockerng/)
   - Set up pfBlockerNG + unbound for DNS security and ad blocking
   - [Windows Defender Firewall](https://github.com/rasheedjimoh/wf/)
-  - Safeguarding our systems against cyber threats
+  - fortifies server security, acting as a digital shield against cyber threats.
   - [Set up OpenVPN for Remote Access](https://github.com/rasheedjimoh/openvpn/)
   - Remote accessibility with OpenVPN, coupled with Duck DNS for dynamic DNS hosting on AWS.
   - [Set up an Internal web server on Windows](https://github.com/rasheedjimoh/iiswebserver/)
   - Internal website accessible only on the internal network
   - [Enhancing Network Performance and Security with Quality of Service (QoS)](https://github.com/rasheedjimoh/qos/)
-  - Prioritising business critical traffic and real-time traffic over other traffic.
-  - 
+  - Prioritising business-critical traffic and real-time traffic over other traffic.
+  - [Windows Defender for Endpoint Protection](https://github.com/rasheedjimoh/wd/)
+  - endpoint protection for safeguarding systems against cyber threats
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
