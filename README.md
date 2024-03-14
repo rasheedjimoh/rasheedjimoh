@@ -43,7 +43,14 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Windows Defender for Endpoint Protection](https://github.com/rasheedjimoh/wd/)
   - endpoint protection for safeguarding systems against cyber threats
   - [File Server for Centralised file storage and sharing with Ransomware protection](https://github.com/rasheedjimoh/fileserver/)
-  - secure and efficient file server for centralized storage, seamless sharing and ransomware protection.
+  - secure and efficient file server for centralized storage, seamless sharing and ransomware protection
+  - [Linux WebServer: LAMP Stack](https://github.com/rasheedjimoh/lamp/)
+  - LAMP stack for dynamic web hosting and bolster your online presence with robust security measures
+  - [Nessus Vulnerability Management](https://github.com/rasheedjimoh/nessus/)
+  - Deployment and configuration of Nessus on Ubuntu for effective vulnerability scanning and management
+  - [Ingesting pfSense Logs into Security Onion](https://github.com/rasheedjimoh/pfslog2soc/)
+  - Network Security Monitoring by configuring pfSense logs to feed into Security Onion using Elastic Fleet
+  - 
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
