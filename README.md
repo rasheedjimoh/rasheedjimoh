@@ -50,6 +50,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Deployment and configuration of Nessus on Ubuntu for effective vulnerability scanning and management
   - [Ingesting pfSense Logs into Security Onion](https://github.com/rasheedjimoh/pfslog2soc/)
   - Network Security Monitoring by configuring pfSense logs to feed into Security Onion using Elastic Fleet
+  - [Provided Identity-based Access to Storage Account File Share](https://github.com/rasheedjimoh/iba-storageacct/)
   - 
 
 
