@@ -51,7 +51,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Ingesting pfSense Logs into Security Onion](https://github.com/rasheedjimoh/pfslog2soc/)
   - Network Security Monitoring by configuring pfSense logs to feed into Security Onion using Elastic Fleet
   - [Provided Identity-based Access to Storage Account File Share](https://github.com/rasheedjimoh/iba-storageacct/)
-  - 
+  - Seamlessly integrate Microsoft Enterprise Kerberos for authentication, ensuring granular access control and compliance with regulatory requirements
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
