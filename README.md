@@ -25,7 +25,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Site-to-Site VPN(IPsec)](https://github.com/rasheedjimoh/AzureFileShare/)
   - Connected the on-prem network to the Azure network using virtual network(vnet), local network gateway, virtual network gateway and Routing and Remote Access Service in Active Directory
   - [pfSense Firewall / Router](https://github.com/rasheedjimoh/pfsense/)
-  - Configured firewall rules to explicitly block all traffic and whitelist only necessary traffic
+  - Configured firewall rules to block all traffic and whitelist only necessary traffic explicitly
   - [Security Onion SIEM (Security information and event management) IDS (Intrusion Detection System) / IPS (Intrusion Prevention System)](https://github.com/rasheedjimoh/securityonion/)
   - For threat hunting, network security monitoring, and log management
   - [Connecting Clients Across Subnets: Adding a New Domain Client](https://github.com/rasheedjimoh/domainjoinseperatesubnet/)
@@ -35,7 +35,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Windows Defender Firewall](https://github.com/rasheedjimoh/wf/)
   - fortifies server security, acting as a digital shield against cyber threats.
   - [Set up OpenVPN for Remote Access](https://github.com/rasheedjimoh/openvpn/)
-  - Remote accessibility with OpenVPN, coupled with Duck DNS for dynamic DNS hosting on AWS.
+  - Remote accessibility with OpenVPN and Duck DNS for dynamic DNS hosting on AWS.
   - [Set up an Internal web server on Windows](https://github.com/rasheedjimoh/iiswebserver/)
   - Internal website accessible only on the internal network
   - [Enhancing Network Performance and Security with Quality of Service (QoS)](https://github.com/rasheedjimoh/qos/)
@@ -52,6 +52,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Network Security Monitoring by configuring pfSense logs to feed into Security Onion using Elastic Fleet
   - [Provided Identity-based Access to Storage Account File Share](https://github.com/rasheedjimoh/iba-storageacct/)
   - Seamlessly integrate Microsoft Enterprise Kerberos for authentication, ensuring granular access control and compliance with regulatory requirements
+  - [Deploy Nextcloud webserver in Azure using Azure Bastion](https://github.com/rasheedjimoh/nexcloud/)
+  - Enhancing security, scalability, compliance, and business continuity in modern organizations
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
