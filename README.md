@@ -54,6 +54,10 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Seamlessly integrate Microsoft Enterprise Kerberos for authentication, ensuring granular access control and compliance with regulatory requirements
   - [Deploy Nextcloud webserver in Azure using Azure Bastion](https://github.com/rasheedjimoh/nexcloud/)
   - Enhancing security, scalability, compliance, and business continuity in modern organizations
+  - [Integrated AWS services (S3, Route 53, Certificate Manager, CloudFront)](https://github.com/rasheedjimoh/aws-website/)
+  - Secure and scalable web hosting infrastructure
+
+
 
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
