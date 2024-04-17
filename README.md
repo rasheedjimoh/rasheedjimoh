@@ -56,7 +56,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Enhancing security, scalability, compliance, and business continuity in modern organizations
   - [Integrated AWS services (S3, Route 53, Certificate Manager, CloudFront)](https://github.com/rasheedjimoh/aws-website/)
   - Secure and scalable web hosting infrastructure
-  - [Setting up Email and SMS Sending System with AWS)](https://github.com/rasheedjimoh/aws-website/)
+  - [Setting up Email and SMS Sending System with AWS)](https://github.com/rasheedjimoh/aws-ses/)
   - Established a robust communication infrastructure using AWS services like IAM, SES, Lambda, and SNS for efficient email and SMS message delivery.
 
 
