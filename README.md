@@ -6,7 +6,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 
 
-<h2>👨‍💻Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Azure Cloud Projects </b>
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
@@ -60,7 +60,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Established a robust communication infrastructure using AWS services like IAM, SES, Lambda, and SNS for efficient email and SMS message delivery.
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
 
- <b>👨‍🔧Problem Resolution / Findings :</b>
+ <b>👨‍🔧 Problem Resolution / Findings :</b>
   - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
  - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
  - [Enhancing Virtual Machine Connectivity: Adding Network Adapter in VMware Workstation Pro](https://github.com/rasheedjimoh/addvmnetsvmwareworkstationpro/)
@@ -118,7 +118,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
     
 </div>
 
-## Certifications
+## 🏆​ Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
