@@ -60,17 +60,15 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Established a robust communication infrastructure using AWS services like IAM, SES, Lambda, and SNS for efficient email and SMS message delivery.
   - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
 
- <h2> 📃 Document(s) :</h2>
- 
- - [Acceptable Use Policy for RJInnovateHub](https://github.com/rasheedjimoh/aup/)
-
- <h2>👨‍💻Problem Resolution / Findings :</h2>
- 
- - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
+ <b>👨‍🔧Problem Resolution / Findings :</b>
+  - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
  - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
  - [Enhancing Virtual Machine Connectivity: Adding Network Adapter in VMware Workstation Pro](https://github.com/rasheedjimoh/addvmnetsvmwareworkstationpro/)
  - [Adding GUI to Ubuntu Server](https://github.com/rasheedjimoh/ubuntugui/)
- - 
+
+ <h2> 📃 Document(s) :</h2>
+ 
+ - [Acceptable Use Policy for RJInnovateHub](https://github.com/rasheedjimoh/aup/)
 
 
 ## 🧰 Tools
