@@ -58,10 +58,11 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Secure and scalable web hosting infrastructure
   - [Setting up Email and SMS Sending System with AWS)](https://github.com/rasheedjimoh/aws-ses/)
   - Established a robust communication infrastructure using AWS services like IAM, SES, Lambda, and SNS for efficient email and SMS message delivery.
+  - [Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
 
-
- <h2> 📃 Documents :</h2>
-- [Acceptable Use Policy for RJInnovateHub](https://github.com/rasheedjimoh/aup/)
+ <h2> 📃 Document(s) :</h2>
+ 
+ - [Acceptable Use Policy for RJInnovateHub](https://github.com/rasheedjimoh/aup/)
 
  <h2>👨‍💻Problem Resolution / Findings :</h2>
  
