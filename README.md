@@ -22,7 +22,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Integrated our on-prem AD to AzureAD/EntraID using Cloud Sync agent successfully making it a hybrid environment.
   - [Azure File Share](https://github.com/rasheedjimoh/AzureFileShare/)
   - Integrated Azure storage with the corporate network(hybrid environment) for efficient file sharing, access management and high availability.
-  - [Site-to-Site VPN(IPsec)](https://github.com/rasheedjimoh/AzureFileShare/)
+  - [Site-to-Site VPN(IPsec)](https://github.com/rasheedjimoh/S2SVPN/)
   - Connected the on-prem network to the Azure network using virtual network(vnet), local network gateway, virtual network gateway and Routing and Remote Access Service in Active Directory
   - [pfSense Firewall / Router](https://github.com/rasheedjimoh/pfsense/)
   - Configured firewall rules to block all traffic and whitelist only necessary traffic explicitly
