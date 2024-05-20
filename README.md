@@ -65,7 +65,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
  - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
  - [Enhancing Virtual Machine Connectivity: Adding Network Adapter in VMware Workstation Pro](https://github.com/rasheedjimoh/addvmnetsvmwareworkstationpro/)
  - [Adding GUI to Ubuntu Server](https://github.com/rasheedjimoh/ubuntugui/)
- - [Troubleshooting Security Onion Access Issues](https://github.com/rasheedjimoh/soaccessisues/)
+ - [Troubleshooting Security Onion Access Issues Fix](https://github.com/rasheedjimoh/soaccessisues/)
 
  <h2> 📃 Document(s) :</h2>
  
