@@ -13,7 +13,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents
   
 
-- <b>Enterprise Home Lab (Currently in progress) </b>
+- <b>Enterprise Security Engineering Projects (Currently in progress) </b>
   - [Active Directory: Centralized Identity and Access Management](https://github.com/rasheedjimoh/ActiveDirectory/)
   - Window Server 2022, configuring Active Directory, DHCP, DNS and Routing Services. Utilized Powershell to automate user account creation for 1000+ users. Connected endpoints to our Active Directory Domain.
   - [Linux: Active Directory Integration for Ubuntu](https://github.com/rasheedjimoh/UbuntuAD/)
