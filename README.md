@@ -14,7 +14,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   
 
 - <b>Enterprise Security Engineering Projects (Currently in progress) </b>
-  - [Enterprise Security Home Lab](https://github.com/rasheedjimoh/entseceng/)
+  - [Enterprise Infrastructure Security Home Lab](https://github.com/rasheedjimoh/entseceng/)
   - Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
 
  <b>👨‍🔧 Problem Resolution / Findings :</b>
