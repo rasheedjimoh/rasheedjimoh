@@ -15,7 +15,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 - <b>Enterprise Security Engineering Projects (Currently in progress) </b>
   - [Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)
-  - Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
+  - Securing Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
 
  <b>👨‍🔧 Problem Resolution & Findings :</b>
   - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
