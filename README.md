@@ -10,7 +10,7 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 - <b>Azure Cloud Security Operation Center Projects </b>
   - [Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
-  - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61
+  - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
   
 
 - <b>Enterprise Security Engineering Projects (Currently in progress) </b>
