@@ -17,8 +17,9 @@ Security Engineer with networking and cloud expertise, securing operations, buil
   - [Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)
   - Securing Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
 
- <b>👨‍🔧 Problem Resolution & Findings :</b>
-  - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
+<h2>👨‍🔧 Problem Resolution & Findings :</h2>
+ 
+ - [Insufficient permission to join the domain when trying to join Linux/ubuntu to a domain controller](https://github.com/rasheedjimoh/rdnserror/)
  - [Unable to remote into VM after promotion to Domain Controller](https://github.com/rasheedjimoh/dcunabletordp/)
  - [Enhancing Virtual Machine Connectivity: Adding Network Adapter in VMware Workstation Pro](https://github.com/rasheedjimoh/addvmnetsvmwareworkstationpro/)
  - [Adding GUI to Ubuntu Server](https://github.com/rasheedjimoh/ubuntugui/)
