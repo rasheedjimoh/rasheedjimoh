@@ -102,6 +102,5 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 [linkedin]: https://www.linkedin.com/in/rasheedj/
 
 
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=348431)
 
 
