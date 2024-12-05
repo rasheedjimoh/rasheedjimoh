@@ -102,6 +102,10 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 [linkedin]: https://www.linkedin.com/in/rasheedj/
 
+[<img align="left" alt="rasheedj | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+
+[github]: https://github.com/rasheedjimoh/
+
 
 
 
