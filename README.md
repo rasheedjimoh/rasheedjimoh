@@ -98,11 +98,8 @@ Security Engineer with networking and cloud expertise, securing operations, buil
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="rasheedj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/rasheedj/
-
-
+[<img align="left" alt="rasheedj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]&nbsp;&nbsp;
 [<img align="left" alt="rasheedj | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
+[linkedin]: https://www.linkedin.com/in/rasheedj/
 [github]: https://github.com/rasheedjimoh/
