@@ -14,8 +14,8 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management Program Implementation](https://github.com/rasheedjimoh/Vulnerability-Management-Program/)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/rasheedjimoh/Programmatic-Vulnerability-Remediation/blob/main/scripts/Automation/remediation-Telnet-Remove.sh)**
 
 ## 🚨 Threat Hunting and Security Operations
 
