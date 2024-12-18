@@ -5,10 +5,10 @@
 Security Engineer with networking and cloud expertise, passionate about tackling complex cybersecurity challenges. My projects focus on vulnerability management, threat detection, and securing environments to safeguard digital assets. Check them out to see how I’ve enhanced security operations and processes.
 
 
-<h2>👨‍💻 Projects:</h2>
+<h1>👨‍💻 Projects:</h1>
 
-- <b>Enterprise Security Engineering Projects (Currently in progress) </b>
-  - [Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)
+## Enterprise Security Engineering Projects (Currently in progress)
+  - **[Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)**
   - Securing Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
 
 
@@ -19,7 +19,7 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rasheedjimoh/threat-hunting-scenario-tor)**
 - **[Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)**
 - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
     
