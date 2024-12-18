@@ -7,14 +7,27 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Azure Cloud Security Operation Center Projects </b>
-  - [Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)
-  - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
-  
-
 - <b>Enterprise Security Engineering Projects (Currently in progress) </b>
   - [Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)
   - Securing Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)**
+- Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
+    
+<hr/>
+
+- <b>Azure Cloud Security Operation Center Projects </b>
+
+  
 
 <h2>👨‍🔧 Problem Resolution & Findings :</h2>
  
