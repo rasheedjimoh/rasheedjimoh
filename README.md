@@ -22,7 +22,7 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 - **[Real-Time Azure Cloud Honeynet Security Operations Center](https://github.com/rasheedjimoh/AzureCloud-SOC/)**
 - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rasheedjimoh/threat-hunting-scenario-tor)**
-- **[Attempted Data Exfiltration)](https://github.com/rasheedjimoh/dataexfilattemptbyBryceMontgomery)**
+- **[Incident Investigation: Data Exfiltration Attempt by Bryce Montgomery)](https://github.com/rasheedjimoh/dataexfilattemptbyBryceMontgomery)**
     
 <hr/>
 
