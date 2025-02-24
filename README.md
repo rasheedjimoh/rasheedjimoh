@@ -23,6 +23,9 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 - Honeynet in the Cloud used to attract live attackers thereby triggering alerts/incidents and remediating incidents using NIST SP 800-61 Computer Security Incident Handling Guide
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rasheedjimoh/threat-hunting-scenario-tor)**
 - **[Incident Investigation: Data Exfiltration Attempt by Bryce Montgomery)](https://github.com/rasheedjimoh/dataexfilattemptbyBryceMontgomery)**
+- **[Threat Hunting Scenario (Identifying Exposed VMs & Brute-Force Attempts)](https://github.com/rasheedjimoh/accidentlyexposedassets/)**
+- **[Incident Investigation: Brute-Force Attack Investigation)](https://github.com/rasheedjimoh/bruteforceattackinvestigation)**
+
     
 <hr/>
 
