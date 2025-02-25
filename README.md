@@ -25,7 +25,7 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 - **[Incident Investigation (Data Exfiltration Attempt by Bryce Montgomery)](https://github.com/rasheedjimoh/dataexfilattemptbyBryceMontgomery)**
 - **[Threat Hunting Scenario (Identifying Exposed VMs & Brute-Force Attempts)](https://github.com/rasheedjimoh/accidentlyexposedassets/)**
 - **[Incident Investigation (Brute-Force Attack Investigation)](https://github.com/rasheedjimoh/bruteforceattackinvestigation)**
-- **[Threat Hunting Report (Identifying Suspicious PowerShell Web Requests)](https://github.com/rasheedjimoh/suspiciouswebrequestbypowershell)**
+- **[Threat Hunting Scenario (Identifying Suspicious PowerShell Web Requests)](https://github.com/rasheedjimoh/suspiciouswebrequestbypowershell)**
 
     
 <hr/>
