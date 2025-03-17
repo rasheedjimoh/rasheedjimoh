@@ -7,7 +7,7 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 
 <h1>👨‍💻 Projects:</h1>
 
-## Enterprise Security Engineering Projects (Currently in progress)
+## Enterprise Security Engineering Projects
   - **[Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)**
   - Securing Enterprise environment with real-live traffic, usage, management, prioritization and maintenance
 
