@@ -28,7 +28,8 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 - **[Threat Hunting Scenario (Unusual Network Slowdown Caused by Rox Threat Lab Port Scanning Activity)](https://github.com/rasheedjimoh/abnormalnetworkslowdown)**
 - **[Incident Investigation (Identifying Suspicious PowerShell Web Requests)](https://github.com/rasheedjimoh/suspiciouswebrequestbypowershell)**
 - **[Threat Hunting Scenario (Suspected Data Exfiltration from PIPd Employee)](https://github.com/rasheedjimoh/susdataexfiltrationbypipdemployee)**
-- **[Incident Investigation (🛰️ Impossible Travel Investigation Report)](https://github.com/rasheedjimoh/impossibletravelinvestigationreport/)**
+- **[Incident Investigation (🛰️ Impossible Travel Investigation Report)](https://github.com/rasheedjimoh/impossibletravelinvestigationreport)**
+- **[Threat Hunting Scenario (Suspected Ransomware Activity)](https://github.com/rasheedjimoh/SuspectedRansomwareActivity)**
 
     
 <hr/>
