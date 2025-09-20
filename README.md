@@ -7,7 +7,7 @@ Security Engineer with networking and cloud expertise, passionate about tackling
 
 <h1>👨‍💻 Projects:</h1>
 
-## Enterprise Agentic AI Security Engineering Projects
+## Agentic AI Security Engineering Projects
 
 
 ## Enterprise Security Engineering Projects
