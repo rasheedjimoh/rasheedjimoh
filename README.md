@@ -2,13 +2,16 @@
 
 <a href="https://www.linkedin.com/in/rasheedj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security Engineer with networking and cloud expertise, passionate about tackling complex cybersecurity challenges. My projects focus on vulnerability management, threat detection, and securing environments to safeguard digital assets. Check them out to see how I’ve enhanced security operations and processes.
+Security Engineer with networking, cloud and Agentic AI Engineering expertise, passionate about tackling complex cybersecurity challenges. My projects focus on vulnerability management, threat detection, and securing environments to safeguard digital assets. Check them out to see how I’ve enhanced security operations and processes.
 
 
 <h1>👨‍💻 Projects:</h1>
 
 ## Agentic AI Security Engineering Projects
-
+  - **[(POC) Agentic AI for Vulnerability Management](https://github.com/rasheedjimoh/AgenticAIforVulnerabilityManagement/)**
+  - Is Vulnerability Management broken — and can Agentic AI fix it?
+  - **[🔥(POC) Demo of An Unpopular Opinion: AI + SOC Analysts](https://github.com/rasheedjimoh/AgenticAI-SOCAnalyst-ThreatHunter/)**
+  - AI will replace bad SOC Analysts, not good ones.
 
 ## Enterprise Security Engineering Projects
   - **[Enterprise Infrastructure Security Homelab](https://github.com/rasheedjimoh/entseceng/)**
