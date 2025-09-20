@@ -8,6 +8,8 @@ Security Engineer with networking, cloud and Agentic AI Engineering expertise, p
 <h1>👨‍💻 Projects:</h1>
 
 ## Agentic AI Security Engineering Projects
+  - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
+  - An Agentic AI-powered assistant that transforms my career portfolio into an interactive Q&A experience.
   - **[(POC) Agentic AI for Vulnerability Management](https://github.com/rasheedjimoh/AgenticAIforVulnerabilityManagement/)**
   - Is Vulnerability Management broken — and can Agentic AI fix it?
   - **[🔥(POC) Demo of An Unpopular Opinion: AI + SOC Analysts](https://github.com/rasheedjimoh/AgenticAI-SOCAnalyst-ThreatHunter/)**
