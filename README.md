@@ -40,8 +40,9 @@ Security Engineer with networking, cloud and Agentic AI Engineering expertise, p
 - **[Threat Hunting Scenario (Suspected Ransomware Activity)](https://github.com/rasheedjimoh/SuspectedRansomwareActivity)**
 
 ## ⚙️ Scripts (Automation & Security Workflows)
-- **[Port Scanner written in Go](https://github.com/rasheedjimoh/Port-Scanner-written-in-Go/)**
-    
+- **[Port Scanner written in Go](https://github.com/rasheedjimoh/Port-Scanner-written-in-Go)**
+- **[🔬 Port Scanner Runtime & Results Comparator (Bash)](https://github.com/rasheedjimoh/comparescanruntime)**
+- **[Port Scanner written in Go](https://github.com/rasheedjimoh/Port-Scanner-written-in-Go/)**    
 <hr/>
 
 
