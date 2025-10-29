@@ -39,10 +39,11 @@ Security Engineer with networking, cloud and Agentic AI Engineering expertise, p
 - **[Incident Investigation (🛰️ Impossible Travel Investigation Report)](https://github.com/rasheedjimoh/impossibletravelinvestigationreport)**
 - **[Threat Hunting Scenario (Suspected Ransomware Activity)](https://github.com/rasheedjimoh/SuspectedRansomwareActivity)**
 
+## ⚙️ Scripts (Automation & Security Workflows)
+- **[Port Scanner written in Go](https://github.com/rasheedjimoh/Port-Scanner-written-in-Go/)**
     
 <hr/>
 
-- <b>Azure Cloud Security Operation Center Projects </b>
 
   
 
