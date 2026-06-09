@@ -8,7 +8,7 @@ Security Engineer with networking, cloud and Agentic AI Engineering expertise, p
 <h1>👨‍💻 Projects:</h1>
 
 ## Agentic AI Security Engineering Projects
-  - **[AgenticGuard Red Team AI Agent](https://github.com/rasheedjimoh/AgenticGuardRedTeamAIAgent/blob/main/README.md)**
+  - **[AgenticGuard Red Team AI Scanner](https://github.com/rasheedjimoh/AgenticGuardRedTeamAIAgent/blob/main/README.md)**
   - AgenticGuard is an Agentic AI security platform that helps teams scan authorized web, API, LLM, MCP, and AI agent systems for evidence-backed risks.
   - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
   - A profile-focused AI assistant built to answer questions about my work, skills, and projects.
