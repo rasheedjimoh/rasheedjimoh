@@ -2,8 +2,7 @@
 
 <a href="https://www.linkedin.com/in/rasheedj/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Security Engineer with networking, cloud and Agentic AI Engineering expertise, passionate about tackling complex cybersecurity challenges. My projects focus on vulnerability management, threat detection, and securing environments to safeguard digital assets. Check them out to see how I’ve enhanced security operations and processes.
-
+Security Engineer specializing in Cloud Security, Vulnerability Management, Security Automation and Agentic AI. I build tools, workflows and autonomous security agents that help organizations identify, prioritize and remediate security risks at scale. My GitHub showcases hands-on projects spanning cloud security, AppSec, red team automation, AI security engineering and operational security tooling.
 
 <h1>👨‍💻 Projects:</h1>
 
