@@ -9,6 +9,9 @@ Security Engineer specializing in Cloud Security, Vulnerability Management, Secu
 ## Agentic AI Security Engineering Projects
   - **[AgenticGuard Red Team AI Scanner](https://github.com/rasheedjimoh/AgenticGuardRedTeamAIAgent/blob/main/README.md)**
   - AgenticGuard is an Agentic AI security platform that helps teams scan authorized web, API, LLM, MCP, and AI agent systems for evidence-backed risks.
+  - **[Real 3D FPS Web Game Security Hardening](https://github.com/rasheedjimoh/REAL-3D-FPS-Web-Game-Security-Hardening-Report/blob/main/README.md)**
+  - A hardened Three.js/Vite FPS web game with enforced security middleware, runtime controls, automated attack simulations, audit evidence, 
+  SBOM generation, and OWASP-aligned validation.
   - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
   - A profile-focused AI assistant built to answer questions about my work, skills, and projects.
   - **[(POC) Agentic AI for Vulnerability Management](https://github.com/rasheedjimoh/AgenticAIforVulnerabilityManagement/)**
