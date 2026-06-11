@@ -18,7 +18,7 @@ Security Engineer specializing in Cloud Security, Vulnerability Management, Secu
   - A GRC engineering agent that tests SOC 2-aligned controls at runtime, maps results to evidence, and reports what passed, failed, or remains incomplete.
   - **[Agentic AI Deception Engineering HoneyPot](https://github.com/rasheedjimoh/Agentic-AI-Deception-Engineering-HoneyPot/blob/main/README.md)**
   - A deception honeypot agent that detects suspicious AI abuse attempts, routes them into safe shadow workflows, blocks real system impact, and captures defender telemetry.
-  - **[Agentic AI Embedded Red Team Evidence Engineer](https://github.com/rasheedjimoh/Agentic-AI-Embedded-Red-Team-Evidence-Engineer/blob/main/README.md)**
+  - **[Embedded Red Team Evidence Engineer for Agentic AI / LLM Security](https://github.com/rasheedjimoh/Agentic-AI-Embedded-Red-Team-Evidence-Engineer/blob/main/README.md)**
   -  The embedded red team agent simulates adversarial LLM and agentic AI attacks, validates whether controls block and log them, and produces evidence-backed PASS/FAIL security findings. 
   - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
   - A profile-focused AI assistant built to answer questions about my work, skills, and projects.
