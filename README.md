@@ -13,8 +13,9 @@ Security Engineer specializing in Cloud Security, Vulnerability Management, Secu
   - A hardened Three.js/Vite FPS web game with enforced security middleware, runtime controls, automated attack simulations, audit evidence, 
   SBOM generation, and OWASP-aligned validation.
   - **[GRC Engineering Security Enforcer](https://github.com/rasheedjimoh/GRC-Engineering-Security-Enforcer)**
-  - A SOC 2-aligned GRC agent that enforces security controls, blocks risky AI actions, and generates
-  audit-ready evidence for every sensitive decision. 
+  - A SOC 2-aligned GRC agent that enforces security controls, blocks risky AI actions, and generates audit-ready evidence for every sensitive decision.
+  - **[GRC Engineering Security Validator](https://github.com/rasheedjimoh/GRC-Engineering-Security-Validator/blob/main/README.md)**
+  - A GRC engineering agent that tests SOC 2-aligned controls at runtime, maps results to evidence, and reports what passed, failed, or remains incomplete.
   - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
   - A profile-focused AI assistant built to answer questions about my work, skills, and projects.
   - **[(POC) Agentic AI for Vulnerability Management](https://github.com/rasheedjimoh/AgenticAIforVulnerabilityManagement/)**
