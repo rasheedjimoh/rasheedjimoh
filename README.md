@@ -19,9 +19,11 @@ Security Engineer specializing in Cloud Security, Vulnerability Management, Secu
   - **[Agentic AI Deception Engineering HoneyPot](https://github.com/rasheedjimoh/Agentic-AI-Deception-Engineering-HoneyPot/blob/main/README.md)**
   - A deception honeypot agent that detects suspicious AI abuse attempts, routes them into safe shadow workflows, blocks real system impact, and captures defender telemetry.
   - **[Embedded Red Team Evidence Engineer for Agentic AI / LLM Security](https://github.com/rasheedjimoh/Agentic-AI-Embedded-Red-Team-Evidence-Engineer/blob/main/README.md)**
-  -  The embedded red team agent simulates adversarial LLM and agentic AI attacks, validates whether controls block and log them, and produces evidence-backed PASS/FAIL security findings.
-  -  **[AgenticGuard AI Vercel Deployment Security and IP Protection Report](https://github.com/rasheedjimoh/AgenticGuard-AI-Vercel-Deployment-Security-and-IP-Protection-Report/blob/main/README.md)**
-  -  The deployment translates a React/Express application into a serverless architecture on Vercel, serving the frontend via Edge CDN and executing target-validation APIs within isolated serverless functions.
+  - The embedded red team agent simulates adversarial LLM and agentic AI attacks, validates whether controls block and log them, and produces evidence-backed PASS/FAIL security findings.
+  - **[AgenticGuard AI Vercel Deployment Security and IP Protection Report](https://github.com/rasheedjimoh/AgenticGuard-AI-Vercel-Deployment-Security-and-IP-Protection-Report/blob/main/README.md)**
+  - The deployment translates a React/Express application into a serverless architecture on Vercel, serving the frontend via Edge CDN and executing target-validation APIs within isolated serverless functions.
+  - **[Kanban Project MVP](https://github.com/rasheedjimoh/Kanban-Project-MVP/blob/main/README.md)**
+  - Kanban Project MVP is a polished Next.js project management dashboard that lets users manage a simple five-column board with editable columns, card creation/deletion, and drag-and-drop workflow movement. 
   - **[🤖 Agentic AI Career Assistance](https://github.com/rasheedjimoh/AgenticAICareerAssistant/)**
   - A profile-focused AI assistant built to answer questions about my work, skills, and projects.
   - **[(POC) Agentic AI for Vulnerability Management](https://github.com/rasheedjimoh/AgenticAIforVulnerabilityManagement/)**
